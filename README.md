@@ -403,6 +403,57 @@
     line-height: 1.7;
     margin: 0;
     opacity: .7;
+   /* Offer grid */
+.offer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  margin: 2.5rem 0;
+}
+
+/* Card base */
+.offer-card {
+  border-radius: 12px;
+  padding: 1.75rem;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Light backgrounds (so black text is visible) */
+.offer-card.green { background: #C8D8C4; }
+.offer-card.gold  { background: #E8D5B7; }
+.offer-card.river { background: #D6E8F2; }
+
+/* Top accent line */
+.offer-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+}
+
+.offer-card.green::before { background: #4A6741; }
+.offer-card.gold::before  { background: #C4933F; }
+.offer-card.river::before { background: #4A7B9D; }
+
+/* BLACK TEXT */
+.offer-card h3 {
+  color: #000000;
+}
+
+.offer-card p {
+  color: rgba(0,0,0,0.8);
+}
+
+/* Optional hover */
+.offer-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
   }
   /* ── WATERSHED MAP VISUAL ── */
   .watershed {
