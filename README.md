@@ -855,33 +855,23 @@
       <div class="bridge-desc">160 field executives · 32,000+ enrolled farmlands · Farmer trust built over years · Cauvery basin geography · FPO networks · TNAU partnership history · Movement credibility</div>
     </div>
   </div>
- offer-card {
-  background: #2D3D29; /* deep moss dark */
-  border: 1px solid rgba(122,158,110,.25);
-  border-radius: 12px;
-  padding: 1.75rem;
-  position: relative;
-  overflow: hidden;
-}
+ 
   <div class="offer-grid reveal">
     <div class="offer-card green">
-      <div class="offer-card-icon"></div>
       <h3>Carbon impact quantification</h3>
       <p>Your programme will receive the first internationally peer-reviewed carbon sequestration numbers from Tamil Nadu soils under agroforestry conditions. Data belongs to the movement.</p>
     </div>
     <div class="offer-card gold">
-      <div class="offer-card-icon"></div>
       <h3>Scientific credibility</h3>
       <p>Published results in Global Change Biology or Geoderma, co-authored with TNAU and Cauvery Calling — giving Save Soil its first rigorous, independently verified CDR dataset from India.</p>
     </div>
     <div class="offer-card river">
-      <div class="offer-card-icon"></div>
       <h3>Farmer benefit — at no cost</h3>
       <p>Enrolled Cauvery Calling farmers in the pilot area receive free basalt application, documented yield improvement, soil pH correction, and reduced fertiliser dependency.</p>
     </div>
   </div>
   
-  <p class="reveal" style="color:rgba(245,238,228,.7)">
+  <p class="reveal" style="color:rgba(122,158,110,.25)">
     ILHA Carbon's carbon credit revenue — earned from international buyers like Microsoft,
     Google, and Frontier Climate — flows directly back to Tamil Nadu farmers and
     to TNAU research. This is the climate finance reaching agriculture that
