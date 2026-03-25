@@ -833,7 +833,7 @@
 <!-- ══════════ 5 — THE OFFER ══════════ -->
 <section id="s5" class="alt">
   <div class="section-label reveal">The partnership</div>
-  <h2 class="reveal" style="color:var(--cream)">What we are offering Cauvery Calling.</h2>
+  <h2 class="reveal" style="color:var(--sand)">What we are offering Cauvery Calling.</h2>
   <p class="reveal" style="color:rgba(245,238,228,.7)">
     This is not a funding request. It is a data partnership — and an opportunity
     for Cauvery Calling to have something it currently cannot generate on its own:
@@ -857,25 +857,22 @@
   </div>
   <div class="offer-grid reveal">
     <div class="offer-card green">
-      <div class="offer-card-icon">📊</div>
+      <div class="offer-card-icon"></div>
       <h3>Carbon impact quantification</h3>
       <p>Your programme will receive the first internationally peer-reviewed carbon sequestration numbers from Tamil Nadu soils under agroforestry conditions. Data belongs to the movement.</p>
     </div>
     <div class="offer-card gold">
-      <div class="offer-card-icon">🌍</div>
+      <div class="offer-card-icon"></div>
       <h3>Scientific credibility</h3>
       <p>Published results in Global Change Biology or Geoderma, co-authored with TNAU and Cauvery Calling — giving Save Soil its first rigorous, independently verified CDR dataset from India.</p>
     </div>
     <div class="offer-card river">
-      <div class="offer-card-icon">👨‍🌾</div>
+      <div class="offer-card-icon"></div>
       <h3>Farmer benefit — at no cost</h3>
       <p>Enrolled Cauvery Calling farmers in the pilot area receive free basalt application, documented yield improvement, soil pH correction, and reduced fertiliser dependency.</p>
     </div>
   </div>
-  <div class="pull-quote reveal">
-    <p>"Less than 4% of global climate finance is reaching agriculture and food systems."</p>
-    <div class="attr" style="color:var(--sand)">Anand Ethirajalu — COP29, 2024</div>
-  </div>
+  
   <p class="reveal" style="color:rgba(245,238,228,.7)">
     ILHA Carbon's carbon credit revenue — earned from international buyers like Microsoft,
     Google, and Frontier Climate — flows directly back to Tamil Nadu farmers and
