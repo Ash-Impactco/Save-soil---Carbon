@@ -383,7 +383,7 @@
     top: 0; left: 0; right: 0;
     height: 3px;
   }
-  .offer-card.green::before  { background: var(--moss); }
+  .offer-card.green::before  { background: var(--sand); }
   .offer-card.gold::before   { background: var(--gold); }
   .offer-card.river::before  { background: var(--river); }
   .offer-card-icon {
@@ -905,7 +905,7 @@
     </div>
   </div>
  <div class="offer-grid reveal">
-  <div class="offer-card black">
+  <div class="offer-card green">
     <h3>Carbon impact quantification</h3>
     <p>
       Your programme will receive the first internationally peer-reviewed carbon sequestration numbers from Tamil Nadu soils under agroforestry conditions. Data belongs to the movement.
