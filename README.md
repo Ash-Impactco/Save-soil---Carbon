@@ -855,6 +855,14 @@
       <div class="bridge-desc">160 field executives · 32,000+ enrolled farmlands · Farmer trust built over years · Cauvery basin geography · FPO networks · TNAU partnership history · Movement credibility</div>
     </div>
   </div>
+ offer-card {
+  background: #2D3D29; /* deep moss dark */
+  border: 1px solid rgba(122,158,110,.25);
+  border-radius: 12px;
+  padding: 1.75rem;
+  position: relative;
+  overflow: hidden;
+}
   <div class="offer-grid reveal">
     <div class="offer-card green">
       <div class="offer-card-icon"></div>
