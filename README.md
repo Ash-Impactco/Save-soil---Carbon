@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -907,7 +905,7 @@
     </div>
   </div>
  <div class="offer-grid reveal">
-  <div class="offer-card green">
+  <div class="offer-card black">
     <h3>Carbon impact quantification</h3>
     <p>
       Your programme will receive the first internationally peer-reviewed carbon sequestration numbers from Tamil Nadu soils under agroforestry conditions. Data belongs to the movement.
